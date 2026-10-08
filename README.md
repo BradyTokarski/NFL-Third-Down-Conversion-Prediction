@@ -1,5 +1,9 @@
 # NFL Third-Down Conversion Prediction
 
+## View the Full Project
+
+[Click here to view my NFL Third-Down Conversion Prediction analysis](https://bradytokarski.github.io/NFL-Third-Down-Conversion-Prediction/NFL_Third_Down_Prediction.html)
+
 ## Project Overview
 This project uses machine learning to predict whether an NFL offensive play on third down will result in a first down. It was completed as part of DAT 402 at Arizona State University.
 
